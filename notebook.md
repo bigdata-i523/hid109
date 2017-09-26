@@ -13,5 +13,8 @@
 
 # Writing
 
-* 08/26/17 Installed and Learned aquamacs
-* 00/01/17 Installed and Learned jabref
+* 09/12/17 Proposed topic for Paper 1
+* 09/15/17 Installed and Learned jabref
+* 09/18/17 Installed and Learned Latex
+* 09/19/17 Research for paper
+* 09/24/17 - 09/29/17 Working on writing paper 1
