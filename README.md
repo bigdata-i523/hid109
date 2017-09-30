@@ -29,8 +29,8 @@ paper1:
 ```
 paper2:
    author: 
-   - Shiqi Shen
-   hid:
+   - Shiqi Shen
+   hid:
    - 109
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
