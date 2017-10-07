@@ -1,9 +1,3 @@
-# hid109
-
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
@@ -22,9 +16,13 @@ paper1:
    - Shiqi Shen
    hid:
    - 109
-   title: This is my paper about xyz
-   abstract: This paper showcases tis and that and the other
+   title: Big Data in Social Media
+   abstract: This paper will evaluate big data and social media with specific focus 
+             on how social media has been employed to improve marketing.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   type: latex
+   status: in progress
+   chapter: Media
 ```
    
 # Paper 2
@@ -32,12 +30,14 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Shiqi Shen
    hid:
-   - 000
+   - 109
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   type: latex
+   status: in progress
 ```
 
 # Project 
@@ -50,9 +50,9 @@ paper2:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - Shiqi Shen
    hid:
-   - 000
+   - 109
    title: Benchmarking a BigData Docker deployment
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
