@@ -21,7 +21,7 @@ paper1:
              on how social media has been employed to improve marketing.
    url: https://github.com/bigdata-i523/hid109/paper1/paper1.pdf
    type: latex
-   status: 100%
+   status: 33%
    chapter: Media
 ```
    
