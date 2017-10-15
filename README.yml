@@ -4,7 +4,8 @@ owner:
     name: Shiqi Shen
     url: https://github.com/bigdata-i523/hid109
 paper1:
-    abstract: This paper will evaluate big data and social media with specific focus
+    abstract: >
+        This paper will evaluate big data and social media with specific focus
         on how social media has been employed to improve marketing.
     author:
         - Shiqi Shen
