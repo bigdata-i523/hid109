@@ -1,0 +1,37 @@
+---
+owner:
+    hid: 109
+    name: Shiqi Shen
+    url: https://github.com/bigdata-i523/hid109
+paper1:
+    abstract: This paper will evaluate big data and social media with specific focus
+        on how social media has been employed to improve marketing.
+    author:
+        - Shiqi Shen
+    chapter: Media
+    hid:
+        - 109
+    status: 100%
+    title: Big Data in Social Media
+    type: latex
+    url: https://github.com/bigdata-i523/hid109/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other in regards to abc
+    author:
+        - Shiqi Shen
+    hid:
+        - 109
+    status: in progress
+    title: Big Data and Business Intelligence
+    type: latex
+    url: https://github.com/bigdata-i523/hid109/paper2/paper2.pdf
+project:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Shiqi Shen
+    hid:
+        - 109
+    status: in progress
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/hid109/project/report.pdf
