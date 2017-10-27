@@ -5,8 +5,17 @@ owner:
     url: https://github.com/bigdata-i523/hid109
 paper1:
     abstract: >
-        This paper will evaluate big data and social media with specific focus
-        on how social media has been employed to improve marketing.
+        Big data refers to data that is generated from various sources including 
+        social media platforms. The impact of this data on marketing cannot be 
+        overlooked as many marketers have used big data analytics to create adverts
+        that are tailored to the specific needs of users. This is possible because 
+        whenever a user comments or likes a product on twitter and Facebook, the 
+        same information is captured and used to analyze the customer’s behavior. 
+        Facebook uses Hadoop technology to help it dig deep into the customer’s 
+        behavior and draw important insights which can be used to suggest products 
+        for users based on their browsing patterns. This paper will evaluate big data 
+        and social media with specific focus on how big data, through social media, 
+        has been employed to improve marketing.
     author:
         - Shiqi Shen
     chapter: Media
