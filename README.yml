@@ -55,12 +55,12 @@ project:
         of user listening history during a month period and predict what songs a set of 
         predetermined users would listen to during the next week. 
     author:
-        - Shiqi Shen & Qiaoyi Liu
+        - Shiqi Shen
+        - Qiaoyi Liu
     hid:
-        - 109 & 106
+        - 109
+        - 106
     status: in progress 
     title: A Music Recommendation System
-    type: latex
-    url: https://github.com/bigdata-i523/hid109/project/report.pdf
-    
-
+    type: project
+    url: https://github.com/bigdata-i523/hid106/project/report.pdf
