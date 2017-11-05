@@ -21,7 +21,7 @@ paper1:
     chapter: Media
     hid:
         - 109
-    status: 100% Oct 27th
+    status: complete 100% Oct 27th
     title: Big Data in Social Media
     type: latex
     url: https://github.com/bigdata-i523/hid109/paper1/paper1.pdf
@@ -44,7 +44,7 @@ paper2:
         - Shiqi Shen
     hid:
         - 109
-    status: in progress 50%
+    status: complete 100% Oct 4th
     title: Big Data and Application in Amazon
     type: latex
     url: https://github.com/bigdata-i523/hid109/paper2/paper2.pdf
