@@ -26,16 +26,20 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid109/paper1/paper1.pdf
 paper2:
+    review: Nov 6 2017
     abstract: >
-        This case study evaluates being data application in Amazon, with specific focus
-        on how the company has employed big data to enhance its performance. Amazon has 
-        created robust applications from big data that has enabled it to give customers 
-        more targeted product recommendations and enhance the quality of care for them. 
-        The all-rounded customer profiles created using big data resources has enabled 
-        the firm to send customized and personalized marketing messages for its customers.
-        Other firms have also adopted the big data tools offered by Amazon to enhance 
-        their performance and revenue flows. The other parts of the paper evaluates how 
-        amazon used big data to enhance operations and improve its performance.         
+        This case study evaluates being data application in Amazon,
+        with specific focus on how the company has employed big data
+        to enhance its performance. Amazon has created robust
+        applications from big data that has enabled it to give
+        customers more targeted product recommendations and enhance
+        the quality of care for them.  The all-rounded customer
+        profiles created using big data resources has enabled the firm
+        to send customized and personalized marketing messages for its
+        customers.  Other firms have also adopted the big data tools
+        offered by Amazon to enhance their performance and revenue
+        flows. The other parts of the paper evaluates how amazon used
+        big data to enhance operations and improve its performance.
     author:
         - Shiqi Shen
     hid:
@@ -46,14 +50,17 @@ paper2:
     url: https://github.com/bigdata-i523/hid109/paper2/paper2.pdf
 project:
     abstract: >
-        Recently, people tend to use auto play-next while using a cloud-based music app. 
-        In this case, content recommendation is at the heart of most subscription-based 
-        media stream platforms. A good recommendation system based on a huge number of 
-        historical records and metadata can vastly enhance user experience and increase
-        user engagement. In our project, we would build machine learning models to predict 
-        what songs are going to be listened next week. The training data would be a copy
-        of user listening history during a month period and predict what songs a set of 
-        predetermined users would listen to during the next week. 
+        Recently, people tend to use auto play-next while using a
+        cloud-based music app.  In this case, content recommendation
+        is at the heart of most subscription-based media stream
+        platforms. A good recommendation system based on a huge number
+        of historical records and metadata can vastly enhance user
+        experience and increase user engagement. In our project, we
+        would build machine learning models to predict what songs are
+        going to be listened next week. The training data would be a
+        copy of user listening history during a month period and
+        predict what songs a set of predetermined users would listen
+        to during the next week.
     author:
         - Shiqi Shen
         - Qiaoyi Liu
