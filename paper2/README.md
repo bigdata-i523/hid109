@@ -8,4 +8,4 @@ E-mail: shiqshen@indiana.edu
 
 Format: latex 
 
-Status: in progress 
+Status: complete(100%)
