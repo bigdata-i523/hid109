@@ -5,17 +5,19 @@ owner:
     url: https://github.com/bigdata-i523/hid109
 paper1:
     abstract: >
-        Big data refers to data that is generated from various sources including 
-        social media platforms. The impact of this data on marketing cannot be 
-        overlooked as many marketers have used big data analytics to create adverts
-        that are tailored to the specific needs of users. This is possible because 
-        whenever a user comments or likes a product on twitter and Facebook, the 
-        same information is captured and used to analyze the customer’s behavior. 
-        Facebook uses Hadoop technology to help it dig deep into the customer’s 
-        behavior and draw important insights which can be used to suggest products 
-        for users based on their browsing patterns. This paper will evaluate big data 
-        and social media with specific focus on how big data, through social media, 
-        has been employed to improve marketing.
+        Big data refers to data that is generated from various sources
+        including social media platforms. The impact of this data on
+        marketing cannot be overlooked as many marketers have used big
+        data analytics to create adverts that are tailored to the
+        specific needs of users. This is possible because whenever a
+        user comments or likes a product on twitter and Facebook, the
+        same information is captured and used to analyze the
+        customer’s behavior.  Facebook uses Hadoop technology to help
+        it dig deep into the customer’s behavior and draw important
+        insights which can be used to suggest products for users based
+        on their browsing patterns. This paper will evaluate big data
+        and social media with specific focus on how big data, through
+        social media, has been employed to improve marketing.
     author:
         - Shiqi Shen
     chapter: Media
@@ -24,43 +26,50 @@ paper1:
     status: complete 100% Oct 27th
     title: Big Data in Social Media
     type: latex
-    url: https://github.com/bigdata-i523/hid109/paper1/paper1.pdf
+    url: https://github.com/bigdata-i523/hid109/paper1
 paper2:
+    review: Nov 6 2017
     abstract: >
-        This case study evaluates being data application in Amazon, with specific focus
-        on how the company has employed big data to enhance its performance. Amazon has 
-        created robust applications from big data that has enabled it to give customers 
-        more targeted product recommendations and enhance the quality of care for them. 
-        The all-rounded customer profiles created using big data resources has enabled 
-        the firm to send customized and personalized marketing messages for its customers.
-        Other firms have also adopted the big data tools offered by Amazon to enhance 
-        their performance and revenue flows. The other parts of the paper evaluates how 
-        amazon used big data to enhance operations and improve its performance.         
+        This case study evaluates being data application in Amazon,
+        with specific focus on how the company has employed big data
+        to enhance its performance. Amazon has created robust
+        applications from big data that has enabled it to give
+        customers more targeted product recommendations and enhance
+        the quality of care for them.  The all-rounded customer
+        profiles created using big data resources has enabled the firm
+        to send customized and personalized marketing messages for its
+        customers.  Other firms have also adopted the big data tools
+        offered by Amazon to enhance their performance and revenue
+        flows. The other parts of the paper evaluates how amazon used
+        big data to enhance operations and improve its performance.
     author:
         - Shiqi Shen
     hid:
         - 109
-    status: complete 100% Oct 4th
+    status: complete 100% Nov 4th
     title: Big Data and Application in Amazon
     type: latex
-    url: https://github.com/bigdata-i523/hid109/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/hid109/paper2
 project:
     abstract: >
-        Recently, people tend to use auto play-next while using a cloud-based music app. 
-        In this case, content recommendation is at the heart of most subscription-based 
-        media stream platforms. A good recommendation system based on a huge number of 
-        historical records and metadata can vastly enhance user experience and increase
-        user engagement. In our project, we would build machine learning models to predict 
-        what songs are going to be listened next week. The training data would be a copy
-        of user listening history during a month period and predict what songs a set of 
-        predetermined users would listen to during the next week. 
+        Recently, people tend to use auto play-next while using a
+        cloud-based music app.  In this case, content recommendation
+        is at the heart of most subscription-based media stream
+        platforms. A good recommendation system based on a huge number
+        of historical records and metadata can vastly enhance user
+        experience and increase user engagement. In our project, we
+        would build machine learning models to predict what songs are
+        going to be listened next week. The training data would be a
+        copy of user listening history during a month period and
+        predict what songs a set of predetermined users would listen
+        to during the next week.
     author:
         - Shiqi Shen
         - Qiaoyi Liu
     hid:
         - 109
         - 106
-    status: in progress 
+    status: 0%
     title: A Music Recommendation System
     type: project
-    url: https://github.com/bigdata-i523/hid106/project/report.pdf
+    url: https://github.com/bigdata-i523/hid106/project
