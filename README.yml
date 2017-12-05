@@ -69,7 +69,7 @@ project:
     hid:
         - 109
         - 106
-    status: 0%
+    status: 100%
     title: A Music Recommendation System
     type: project
     url: https://github.com/bigdata-i523/hid106/project
