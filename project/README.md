@@ -1,4 +1,4 @@
-Title: A Music Recommendation System
+Title: Diversification of Big Data
 
 Author: Shiqi Shen, Qiaoyi Liu
 
