@@ -52,25 +52,27 @@ paper2:
     url: https://github.com/bigdata-i523/hid109/paper2
 project:
     abstract: >
-        Recently, people tend to use auto play-next while using a
-        cloud-based music app.  In this case, content recommendation
-        is at the heart of most subscription-based media stream
-        platforms. A good recommendation system based on a huge number
-        of historical records and metadata can vastly enhance user
-        experience and increase user engagement. In our project, we
-        would build machine learning models to predict what songs are
-        going to be listened next week. The training data would be a
-        copy of user listening history during a month period and
-        predict what songs a set of predetermined users would listen
-        to during the next week.
+         There are some ideas around the conception of big data and how 
+         it is used in the market outside of a programmer’s computer. What 
+         I mean to try, and state here is that there is an idea of how big 
+         data is used and functions in the world. As a programmer, we cannot 
+         just focus on what we contribute to the programs, meaning we cannot 
+         only look at our computer data and creation of such programs as a 
+         means for our own scientific endeavors and egos, we must understand 
+         how such creation are reflected into the world and how such programs 
+         create a very interesting market exposure. Therefore, we write this 
+         paper to analyze the enterprise of big data. We will use this paper 
+         to seek out the multiplicity of avenues in which big data is used by 
+         our technological world (mainly those that seek to use big data to 
+         create diversified consumer experiences). 
     author:
         - Shiqi Shen
         - Qiaoyi Liu
     hid:
         - 109
         - 106
-    status: 100%
-    title: A Music Recommendation System
-    type: project
+    status: 100% Dec 4th
+    title: Diversification of Big Data
+    type: Project
     url: https://github.com/bigdata-i523/hid106/project
     chapter: Business
