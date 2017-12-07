@@ -50,6 +50,7 @@ paper2:
     title: Big Data and Application in Amazon
     type: latex
     url: https://github.com/bigdata-i523/hid109/paper2
+    chapter: Technology
 project:
     abstract: >
          There are some ideas around the conception of big data and how 
