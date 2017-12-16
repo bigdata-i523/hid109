@@ -25,7 +25,6 @@ paper1:
         - 109
     status: complete 100% Oct 27th
     title: Big Data in Social Media
-    type: latex
     url: https://github.com/bigdata-i523/hid109/paper1
 paper2:
     review: Nov 6 2017
@@ -48,7 +47,6 @@ paper2:
         - 109
     status: complete 100% Nov 4th
     title: Big Data and Application in Amazon
-    type: latex
     url: https://github.com/bigdata-i523/hid109/paper2
     chapter: Technology
 project:
